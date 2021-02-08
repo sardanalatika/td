@@ -1,2 +1,4 @@
 intial commit
 after initial commit
+solve merge conflict : first
+
