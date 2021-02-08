@@ -1,4 +1,5 @@
 intial commit
 after initial commit
+<<<<<<< HEAD
 conflict resolve:second
-
+=======
